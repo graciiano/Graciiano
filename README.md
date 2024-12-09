@@ -7,7 +7,7 @@
 ###
 
 
-[![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=graciiano&theme=chartreuse-dark)](https://github.com/graciiano/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=graciiano&count_private=true)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kegtwlpr6dl1fhn7ob8ulkl28&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kegtwlpr6dl1fhn7ob8ulkl28&redirect=true)
 ###
