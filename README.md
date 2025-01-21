@@ -14,9 +14,9 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kegtwlpr6dl1fhn7ob8ulkl28&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=kegtwlpr6dl1fhn7ob8ulkl28&redirect=true)
 ###
 
-[![Top Langs]([https://github-readme-stats.vercel.app](https://graciiano-zvkm.vercel.app/)/api/top-langs/?username=graciiano&layout=compact&count_private=true&theme=radical)](https://github.com/graciiano/Graciiano)
+[![Top Langs]([https://graciiano-zvkm.vercel.app/api/top-langs/?username=graciiano&layout=compact&count_private=true&theme=radical)](https://github.com/graciiano/Graciiano)
 
-https://graciiano-zvkm.vercel.app/
+
 
 
 <div align="left">
