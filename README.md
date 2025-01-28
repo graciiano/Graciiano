@@ -6,17 +6,9 @@
 
 ###
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=graciiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div>
-<a href="https://github.com/graciiano">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graciiano&layout=compact&langs_count=7&theme=dracula"/>
+[![GitHub Streak](https://github-readme-streak-stats-nine-gules.vercel.app?user=graciiano&theme=transparent&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
-</a>
-</div>
 
----
-
-![Snake animation](https://github.com/graciiano/graciiano/blob/output/github-contribution-grid-snake.svg)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
