@@ -21,9 +21,8 @@ Busco sempre me aperfeiçoar, aprender novas tecnologias e contribuir com soluç
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXcwdnd3cGdzOWNjM3BzYW15dmRkOWhtZjJiZnNqNXR3aG01dXRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oGBswwsBKsUmqsa9Iq/giphy.gif"  />
 
-###
+
 
 [![GitHub Streak](https://github-readme-streak-stats-nine-gules.vercel.app?user=graciiano&theme=transparent&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
